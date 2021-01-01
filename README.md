@@ -1,2 +1,2 @@
-# binary-sys.github.io
-binary-sys.github.io
+# binarysys.github.io
+binarysys.github.io
